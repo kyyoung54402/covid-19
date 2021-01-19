@@ -7,7 +7,5 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/kyyoung/catkin_ws/devel:$CMAKE_PREFIX_PATH"
+export PATH="/opt/ros/kinetic/bin:/home/kyyoung/bin:/home/kyyoung/.local/bin:/usr/local/SEMA/bin:/opt/Qt5.0.2/Tools/QtCreator/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
 export PWD="/home/kyyoung/catkin_ws/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/kyyoung/catkin_ws/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/kyyoung/catkin_ws/src:$ROS_PACKAGE_PATH"
